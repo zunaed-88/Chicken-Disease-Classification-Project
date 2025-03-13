@@ -22,7 +22,8 @@ list_of_files = [
         "params.yaml",
         "requirments.txt",
         "setup.py",
-        "research/trail.ipynb"
+        "research/trail.ipynb",
+        "template/index.html"
 
 ]
 
