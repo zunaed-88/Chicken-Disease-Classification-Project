@@ -3,7 +3,7 @@ pandas
 dvc
 notebook
 numpy
-matlplotlib
+matplotlib
 seaborn
 python-box == 6.0.2
 pyYAML
